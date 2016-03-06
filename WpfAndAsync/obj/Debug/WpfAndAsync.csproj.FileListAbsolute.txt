@@ -1,0 +1,13 @@
+C:\Users\Casa\Dropbox\CSharp\GoFishWPF\WpfAndAsync\bin\Debug\WpfAndAsync.exe.config
+C:\Users\Casa\Dropbox\CSharp\GoFishWPF\WpfAndAsync\bin\Debug\WpfAndAsync.exe
+C:\Users\Casa\Dropbox\CSharp\GoFishWPF\WpfAndAsync\bin\Debug\WpfAndAsync.pdb
+C:\Users\Casa\Dropbox\CSharp\GoFishWPF\WpfAndAsync\obj\Debug\WpfAndAsync.csprojResolveAssemblyReference.cache
+C:\Users\Casa\Dropbox\CSharp\GoFishWPF\WpfAndAsync\obj\Debug\MainWindow.baml
+C:\Users\Casa\Dropbox\CSharp\GoFishWPF\WpfAndAsync\obj\Debug\MainWindow.g.cs
+C:\Users\Casa\Dropbox\CSharp\GoFishWPF\WpfAndAsync\obj\Debug\App.g.cs
+C:\Users\Casa\Dropbox\CSharp\GoFishWPF\WpfAndAsync\obj\Debug\WpfAndAsync_MarkupCompile.cache
+C:\Users\Casa\Dropbox\CSharp\GoFishWPF\WpfAndAsync\obj\Debug\WpfAndAsync.g.resources
+C:\Users\Casa\Dropbox\CSharp\GoFishWPF\WpfAndAsync\obj\Debug\WpfAndAsync.Properties.Resources.resources
+C:\Users\Casa\Dropbox\CSharp\GoFishWPF\WpfAndAsync\obj\Debug\WpfAndAsync.csproj.GenerateResource.Cache
+C:\Users\Casa\Dropbox\CSharp\GoFishWPF\WpfAndAsync\obj\Debug\WpfAndAsync.exe
+C:\Users\Casa\Dropbox\CSharp\GoFishWPF\WpfAndAsync\obj\Debug\WpfAndAsync.pdb

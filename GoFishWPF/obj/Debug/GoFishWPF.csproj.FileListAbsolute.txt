@@ -1,0 +1,15 @@
+C:\Users\Casa\Dropbox\CSharp\GoFishWPF\GoFishWPF\bin\Debug\GoFishWPF.exe.config
+C:\Users\Casa\Dropbox\CSharp\GoFishWPF\GoFishWPF\obj\Debug\GoFishWPF.csprojResolveAssemblyReference.cache
+C:\Users\Casa\Dropbox\CSharp\GoFishWPF\GoFishWPF\obj\Debug\MainWindow.baml
+C:\Users\Casa\Dropbox\CSharp\GoFishWPF\GoFishWPF\obj\Debug\MainWindow.g.cs
+C:\Users\Casa\Dropbox\CSharp\GoFishWPF\GoFishWPF\obj\Debug\App.g.cs
+C:\Users\Casa\Dropbox\CSharp\GoFishWPF\GoFishWPF\obj\Debug\GoFishWPF_MarkupCompile.cache
+C:\Users\Casa\Dropbox\CSharp\GoFishWPF\GoFishWPF\obj\Debug\GoFishWPF.g.resources
+C:\Users\Casa\Dropbox\CSharp\GoFishWPF\GoFishWPF\obj\Debug\GoFishWPF.Properties.Resources.resources
+C:\Users\Casa\Dropbox\CSharp\GoFishWPF\GoFishWPF\obj\Debug\GoFishWPF.csproj.GenerateResource.Cache
+C:\Users\Casa\Dropbox\CSharp\GoFishWPF\GoFishWPF\obj\Debug\GeneratedInternalTypeHelper.g.cs
+C:\Users\Casa\Dropbox\CSharp\GoFishWPF\GoFishWPF\obj\Debug\GoFishWPF_MarkupCompile.lref
+C:\Users\Casa\Dropbox\CSharp\GoFishWPF\GoFishWPF\bin\Debug\GoFishWPF.exe
+C:\Users\Casa\Dropbox\CSharp\GoFishWPF\GoFishWPF\bin\Debug\GoFishWPF.pdb
+C:\Users\Casa\Dropbox\CSharp\GoFishWPF\GoFishWPF\obj\Debug\GoFishWPF.exe
+C:\Users\Casa\Dropbox\CSharp\GoFishWPF\GoFishWPF\obj\Debug\GoFishWPF.pdb
